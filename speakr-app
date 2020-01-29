@@ -1,0 +1,4 @@
+###This file is for startup issues only
+import os
+
+os.startfile("main.exe")
